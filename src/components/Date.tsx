@@ -13,7 +13,7 @@ function Date() {
                 <Right className='h-5 w-5 text-[#6672B6] font-bold'/>
             </div>
         </div>
-        <div className='flex justify-center items-center space-x-3 mt-8 w-[95%]'>
+        <div className='flex justify-center items-center space-x-3 mt-8 w-[95%] mx-auto'>
             <div className='flex flex-col items-center justify-center'>
                 <div className='bg-white w-9 h-9 p-3 flex justify-center items-center rounded-full'>
                     <p className='text-[#6672B6] text-base font-bold'>2</p>
